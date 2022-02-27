@@ -12,34 +12,39 @@ public class Main
 
     public static void main(String[] args)
     {
-        HashSet<String> cores = new HashSet<String>();
+        HashSet<String> cores = new HashSet<>();
         cores.add("Azul");
         cores.add("Roxo");
         cores.add("Verde");
         cores.add("Rosa");
-        cores.add("Azul"); // como HashSet só aceita objetos diferentes, terá apenas 1 Azul na matriz;
+        cores.add("Azul"); // como HashSet só aceita objetos diferentes,
+                           // terá apenas 1 Azul na matriz;
 
         System.out.println(cores);
 
         pularLinha();
 
         String corSelecionada = "Laranja";
-        System.out.println(cores.contains(corSelecionada)); // retorna true se o argumento for igual a algum objeto na matriz;
+        // retorna true se o argumento for igual a algum objeto na matriz;
+        System.out.println(cores.contains(corSelecionada));
 
         pularLinha();
 
         if (cores.contains(corSelecionada))
         {
-            System.out.printf("A cor %s está contida no objeto cores!\n", corSelecionada);
+            System.out.printf("A cor %s está contida no objeto cores!\n",
+                    corSelecionada);
         }
         else
         {
-            System.out.printf("A cor %s não está contida no objeto cores!\n", corSelecionada);
+            System.out.printf("A cor %s não está contida no objeto cores!\n",
+                    corSelecionada);
         }
         pularLinha();
 
         // remove um item do objeto cores:
-        cores.remove("Azul"); // para remover todos os objetos do objeto cores use: cores.clear();
+        cores.remove("Azul");
+        // para remover todos os objetos do objeto cores use: cores.clear();
         System.out.println(cores);
 
         pularLinha();

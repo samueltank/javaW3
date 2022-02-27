@@ -2,19 +2,52 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/arrayList/arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attribute/attribute.iml" filepath="$PROJECT_DIR$/attribute/attribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classAndObjects/classAndObjects.iml" filepath="$PROJECT_DIR$/classAndObjects/classAndObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditions/conditions.iml" filepath="$PROJECT_DIR$/conditions/conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/dataTypes/dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date/date.iml" filepath="$PROJECT_DIR$/date/date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file/file.iml" filepath="$PROJECT_DIR$/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guiBasic/guiBasic.iml" filepath="$PROJECT_DIR$/guiBasic/guiBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashSet/hashSet.iml" filepath="$PROJECT_DIR$/hashSet/hashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerClass/innerClass.iml" filepath="$PROJECT_DIR$/innerClass/innerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaW3.iml" filepath="$PROJECT_DIR$/.idea/javaW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/loop/loop.iml" filepath="$PROJECT_DIR$/loop/loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/mathem/mathem.iml" filepath="$PROJECT_DIR$/mathem/mathem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodClass/methodClass.iml" filepath="$PROJECT_DIR$/methodClass/methodClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modifier/modifier.iml" filepath="$PROJECT_DIR$/modifier/modifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overloading/overloading.iml" filepath="$PROJECT_DIR$/overloading/overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/packages.iml" filepath="$PROJECT_DIR$/packages/packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parameters/parameters.iml" filepath="$PROJECT_DIR$/parameters/parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recusion2/recusion2.iml" filepath="$PROJECT_DIR$/recusion2/recusion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regEx/regEx.iml" filepath="$PROJECT_DIR$/regEx/regEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scope/scope.iml" filepath="$PROJECT_DIR$/scope/scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/switch/switch.iml" filepath="$PROJECT_DIR$/switch/switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tester/tester.iml" filepath="$PROJECT_DIR$/tester/tester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadsProblem/threadsProblem.iml" filepath="$PROJECT_DIR$/threadsProblem/threadsProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeCasting/typeCasting.iml" filepath="$PROJECT_DIR$/typeCasting/typeCasting.iml" />
       <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapper/wrapper.iml" filepath="$PROJECT_DIR$/wrapper/wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapperClass/wrapperClass.iml" filepath="$PROJECT_DIR$/wrapperClass/wrapperClass.iml" />
     </modules>
   </component>
 </project>
